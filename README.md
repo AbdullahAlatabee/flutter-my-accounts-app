@@ -5,7 +5,7 @@ The app supports **Arabic and English localization**, **light/dark themes**, and
 
 ---
 
-## 🚀 Features
+##  Features
 - Add, edit, and delete client accounts.
 - Track due amounts, paid amounts, and remaining balances.
 - Add payments to existing accounts.
@@ -16,7 +16,7 @@ The app supports **Arabic and English localization**, **light/dark themes**, and
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Flutter** (Dart)
 - **SharedPreferences** for local storage
 - **Material Design** for UI
@@ -24,6 +24,3 @@ The app supports **Arabic and English localization**, **light/dark themes**, and
 
 ---
 
-## 📸 Screenshots
-> You can add screenshots of the app here for better presentation.  
-Example:  
